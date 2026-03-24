@@ -2,13 +2,9 @@
 
 **Pineapple-Powered Alien Tech for LilyGo Devices**
 
-Welcome to **Project Shadowfall** – a wild collection of custom watch faces and display themes inspired by **Bruce**, the pineapple-loving alien who crash-landed on Earth.
+Welcome to **Project Shadowfall** – a wild collection of custom watch the pineapple-loving alien who crash-landed on Earth.
 
-Bruce didn’t come in peace… he came with **pineapples** and **next-level technology**. After his saucer smashed into a Hawaiian field, he decided humanity needed a serious upgrade: vibrant visuals, futuristic interfaces, and a healthy dose of tropical absurdity. These themes blend glowing alien tech with juicy pineapple aesthetics – because nothing says “advanced civilization” like a radioactive pineapple waving at you from your wrist.
-
-One of the boot animation catchphrases says it all:
-**“Harvest is you. Harvest your ignorance.”**
-(Yes, it’s a pun. Yes, it’s intentional. Yes, Bruce approves.)
+After his saucer smashed into a rual field, he decided humanity needed a serious upgrade: vibrant visuals, futuristic interfaces, and a healthy dose of tropical absurdity. These themes blend glowing alien tech with juicy pineapple aesthetics – because nothing says “advanced civilization” like a radioactive pineapple waving at you from your wrist.
 
 ### Supported Sizes / Devices
 I’ve created **six** different resolutions so Bruce can crash-land on pretty much any LilyGo hardware:
